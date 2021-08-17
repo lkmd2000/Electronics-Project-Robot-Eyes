@@ -1,6 +1,6 @@
 # Electronics-Project-Robot-Eyes
 
-- The goal of this circuit is to Control the robot eyes by Using **LED**.
+- The goal of this circuit is to Control the **LED** of the robotic eyes.
 - The design was created by **AUTODESK THINKERCAD** site.
 
 ## the circuit:
