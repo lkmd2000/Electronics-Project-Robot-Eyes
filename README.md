@@ -19,7 +19,7 @@
 You can see the code used frome the uploded files. 
 
 ## Simulation of the circuit: 
-
+https://www.tinkercad.com/things/3JLqReOzKR9-neat-allis/editel?tenant=circuits
 
 ---
 
