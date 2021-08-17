@@ -4,6 +4,7 @@
 - The design was created by **AUTODESK THINKERCAD** site.
 
 ## the circuit:
+<img width="732" alt="Screen Shot 2021-08-17 at 6 12 35 AM" src="https://user-images.githubusercontent.com/88155243/129657927-a9fe735d-4bf0-4152-b9a0-999fd6202126.png">
 
 
 ## Component:
